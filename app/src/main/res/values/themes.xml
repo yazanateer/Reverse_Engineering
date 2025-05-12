@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Survivegamenew" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.Survivegamenew" parent="Base.Theme.Survivegamenew" />
+</resources>
